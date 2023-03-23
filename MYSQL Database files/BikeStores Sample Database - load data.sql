@@ -1,13 +1,3 @@
-/*
---------------------------------------------------------------------
-© 2017 sqlservertutorial.net All Rights Reserved
---------------------------------------------------------------------
-Name   : BikeStores
-Link   : http://www.sqlservertutorial.net/load-sample-database/
-Version: 1.0
---------------------------------------------------------------------
-*/
-
 
 INSERT INTO production_brands(brand_id,brand_name) VALUES(1,'Electra');
 INSERT INTO production_brands(brand_id,brand_name) VALUES(2,'Haro');
